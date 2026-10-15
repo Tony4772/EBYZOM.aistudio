@@ -1,0 +1,6 @@
+{
+  "name": "EBYZOM E.I.R.L. | Ingeniería de Software",
+  "description": "Desarrollo de Aplicaciones Android Nativas, Plataformas Web y Sistemas ERP a Medida con integración oficial SUNAT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
